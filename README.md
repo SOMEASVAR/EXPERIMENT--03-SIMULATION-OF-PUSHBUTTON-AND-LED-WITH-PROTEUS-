@@ -118,7 +118,8 @@ void blink_led()
 
 ## Output screen shots of proteus  :
 ## LED OFF:
-![image](https://github.com/SOMEASVAR/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/93434149/f3445637-4168-47ca-be9c-e6b3a1abab98)
+![image](https://github.com/SOMEASVAR/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/93434149/4ad6cea8-4ab6-4ac8-941d-5b92b921d516)
+
 
 ## LED ON:
 
