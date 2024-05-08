@@ -1,4 +1,10 @@
 # EXPERIMENT: 03 SIMULATION OF PUSHBUTTON AND LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+```
+Name : Someasvar R
+Roll no : 212221230103
+Date of experiment : 20/03/2024
+```
+
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: 
